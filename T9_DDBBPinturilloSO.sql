@@ -44,3 +44,12 @@ CREATE TABLE Dibujos (
     Dificultad INTEGER NOT NULL,
     Categoria VARCHAR(80) NOT NULL
 );
+
+CREATE TABLE Dibujos (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Dibujo VARCHAR(80) NOT NULL,
+    Dificultad INTEGER NOT NULL,
+    Categoria VARCHAR(80) NOT NULL
+=======
+>>>>>>> 5010473 (Version 4)
+);

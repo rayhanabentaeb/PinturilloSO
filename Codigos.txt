@@ -1,0 +1,62 @@
+Cliente -> Servidor:
+
+	-> "0/": Desconexión.
+
+	-> "1/0/": Crear Cuenta.
+
+	-> "1/1/": Recuperar Cuenta.
+
+	-> "1/2/": Cambiar Foto de Perfil / Nombre de Usuario.
+
+	-> "2/0/": Cerrar Sesión.
+
+	-> "2/1/": Iniciar Sesión.
+
+	-> "3/1/": Consultar Ranking.
+
+	-> "3/2/": Consultar Partidas Jugadas.
+
+	-> "3/3/": Consultar Amigos.
+
+	-> "4/0/": Salir del Menú CrearSala eliminando el código creado.
+
+	-> "4/1/": Crear Código de Sala.
+
+	-> "5/0/": Abandonar Sala de Partida.
+
+	-> "5/1/": Crear Sala de Partida.
+
+	-> "5/2/": Acceder a Sala de Partida desde MenuJugador con el Código de la Sala.
+
+	-> "5/3/": Añadir Jugador a Sala de Partida.
+
+	-> "5/4/": Enviar Mensajes por Chat.
+
+
+Servidor -> Cliente:
+
+	-> "1/0/": El registro se ha completado.
+
+	-> "1/1/": Cuenta Recuperada.
+
+	-> "1/2/": Foto de Perfil / Nombre de Usuario cambiado.
+
+	-> "2/0/": Sesión Iniciada.
+
+	-> "3/1/": Mostrar Ranking.
+
+	-> "3/2/": Mostrar Partidas Jugadas.
+
+	-> "3/3/": Mostrar Amigos.
+
+	-> "4/": Devolver Código de Sala.
+
+	-> "5/2/": Devolver Información para Acceder Sala de Partida.
+
+	-> "5/3/": Devolver Información del Nuevo Jugador en Sala de Partida.
+
+	-> "5/4/": Devolver Mensaje Enviado por Chat.
+
+	-> "99/": Notificar número de Conectados.
+
+	-> "-1/": Errores.
