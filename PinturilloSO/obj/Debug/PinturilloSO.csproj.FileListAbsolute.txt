@@ -1,0 +1,72 @@
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\share\V3\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\share\V3\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\share\V3\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
