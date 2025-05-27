@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|c:\\users\\hanab\\onedrive\\escritorio\\so\\version ultim de la nora arreglado creo\\pinturilloso\\pinturilloso\\pinturilloso\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\share\\ServidorPinturilloSO.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\crearsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:crearsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\crearsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:crearsala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\menujugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menujugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\informacionjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:informacionjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\informacionjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:informacionjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\cambiarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:cambiarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\perfilamigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:perfilamigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\menujugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menujugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\salapartida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:salapartida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\salapartida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:salapartida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\cambiarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:cambiarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:perfiljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuInicio.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuInicio.cs",
+              "RelativeDocumentMoniker": "MenuInicio.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuInicio.cs",
+              "RelativeToolTip": "MenuInicio.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAAAGQBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:48:40.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearSala.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CrearSala.cs",
+              "RelativeDocumentMoniker": "CrearSala.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CrearSala.cs",
+              "RelativeToolTip": "CrearSala.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:07:44.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearSala.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CrearSala.cs",
+              "RelativeDocumentMoniker": "CrearSala.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CrearSala.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrearSala.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:07:38.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuInicio.cs",
+              "RelativeDocumentMoniker": "MenuInicio.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:05:40.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuJugador.cs",
+              "RelativeDocumentMoniker": "MenuJugador.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:57:55.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfilJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\PerfilJugador.cs",
+              "RelativeDocumentMoniker": "PerfilJugador.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\PerfilJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PerfilJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:41:46.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InformacionJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\InformacionJugador.cs",
+              "RelativeDocumentMoniker": "InformacionJugador.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\InformacionJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InformacionJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:54:46.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformacionJugador.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\InformacionJugador.cs",
+              "RelativeDocumentMoniker": "InformacionJugador.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\InformacionJugador.cs",
+              "RelativeToolTip": "InformacionJugador.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:55:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CambiarPerfil.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CambiarPerfil.cs",
+              "RelativeDocumentMoniker": "CambiarPerfil.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CambiarPerfil.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CambiarPerfil.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:33:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerfilAmigo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\PerfilAmigo.cs",
+              "RelativeDocumentMoniker": "PerfilAmigo.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\PerfilAmigo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PerfilAmigo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:01:52.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalaPartida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\SalaPartida.cs",
+              "RelativeDocumentMoniker": "SalaPartida.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\SalaPartida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SalaPartida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:20:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuJugador.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuJugador.cs",
+              "RelativeDocumentMoniker": "MenuJugador.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\MenuJugador.cs",
+              "RelativeToolTip": "MenuJugador.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAqwPEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:29.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalaPartida.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\SalaPartida.cs",
+              "RelativeDocumentMoniker": "SalaPartida.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\SalaPartida.cs",
+              "RelativeToolTip": "SalaPartida.cs",
+              "ViewState": "AgIAAAAFAAAAAAAAAAAiwA4FAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:56:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CambiarPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CambiarPerfil.cs",
+              "RelativeDocumentMoniker": "CambiarPerfil.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\CambiarPerfil.cs",
+              "RelativeToolTip": "CambiarPerfil.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:33:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PerfilJugador.cs",
+              "DocumentMoniker": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\PerfilJugador.cs",
+              "RelativeDocumentMoniker": "PerfilJugador.cs",
+              "ToolTip": "C:\\Users\\hanab\\OneDrive\\Escritorio\\SO\\VERSION ULTIM DE LA NORA ARREGLADO CREO\\PinturilloSO\\PinturilloSO\\PinturilloSO\\PerfilJugador.cs",
+              "RelativeToolTip": "PerfilJugador.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwFAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:53:53.143Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "355d3ca9-2f4d-4403-aa03-19c06600c8f1",
+        "Display": 0,
+        "X": 245,
+        "Y": 101,
+        "Width": 956,
+        "Height": 546,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServidorPinturilloSO.c",
+              "DocumentMoniker": "C:\\share\\ServidorPinturilloSO.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\share\\ServidorPinturilloSO.c",
+              "ToolTip": "C:\\share\\ServidorPinturilloSO.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\share\\ServidorPinturilloSO.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0DAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T15:01:15.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+DROP DATABASE IF EXISTS DDBBPinturilloSO;
+CREATE DATABASE DDBBPinturilloSO;
+USE DDBBPinturilloSO;
+
+CREATE TABLE Jugadores (
+    ID INTEGER AUTO_INCREMENT PRIMARY KEY,
+    Usuario VARCHAR(80) NOT NULL,
+    Correo VARCHAR(80) NOT NULL,
+    Contrasena VARCHAR(80) NOT NULL,
+    FotoPerfil INTEGER NOT NULL,
+    Puntos INTEGER DEFAULT 0,
+    FotoPerfilFavorita INTEGER,
+    DibujoFavorito INTEGER
+);
+
+CREATE TABLE Partidas (
+    ID INTEGER AUTO_INCREMENT PRIMARY KEY,
+    Codigo VARCHAR(5) NOT NULL,
+    MaximoJugadores INTEGER NOT NULL,
+    Categoria VARCHAR(80) NOT NULL,
+    Dificultad VARCHAR(80) NOT NULL,
+    Rondas INTEGER NOT NULL,
+    Privacidad VARCHAR(80) NOT NULL
+);
+
+CREATE TABLE Dibujos (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Dibujo VARCHAR(80) NOT NULL,
+    Dificultad INTEGER NOT NULL,
+    Categoria VARCHAR(80) NOT NULL
+);
+
+CREATE TABLE PartidasJugadas (
+    PartidaID INTEGER NOT NULL,
+    PrimeroID INTEGER NOT NULL,
+    SegundoID INTEGER NOT NULL,
+    TerceroID INTEGER,
+    CuartoID INTEGER,
+    GanadorID INTEGER NOT NULL,
+    FOREIGN KEY (PartidaID) REFERENCES Partidas(ID),
+    FOREIGN KEY (PrimeroID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (SegundoID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (TerceroID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (CuartoID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (GanadorID) REFERENCES Jugadores(ID)
+);
+
+CREATE TABLE Amigos (
+    JugadorID INTEGER NOT NULL,
+    AmigoID INTEGER NOT NULL,
+    FOREIGN KEY (JugadorID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (AmigoID) REFERENCES Jugadores(ID),
+    CHECK (JugadorID <> AmigoID)
+);
