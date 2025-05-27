@@ -1,0 +1,380 @@
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V2\VERSION2\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\share\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\share\V3\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\share\V3\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\share\V3\V3\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\share\V3\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V3\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION4 POL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\polfd\OneDrive\Documentos\Uni\AT\5tQ\SO\PinturilloSO\V5\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\piturillo so\PinturilloSO pol\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSIONULTRAFINAL\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\piturillo so\hana\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\piturillo so\nora\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\Users\hanab\OneDrive\Escritorio\SO\VERSION ULTIM DE LA NORA ARREGLADO CREO\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe.config
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.exe
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\PinturilloSO.pdb
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.dll
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\Microsoft.Win32.Registry.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Asio.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Core.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Midi.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.Wasapi.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinForms.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\NAudio.WinMM.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.AccessControl.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\bin\Debug\System.Security.Principal.Windows.xml
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.AssemblyReference.cache
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CambiarPerfil.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoJugar.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.ComoUnirse.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearSala.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.CrearUsuario.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.EditarPartida.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.InformacionJugador.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Invitar.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuInicio.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.MenuJugador.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilAmigo.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.PerfilJugador.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.Properties.Resources.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.RecuperarCuenta.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.SalaPartida.resources
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.GenerateResource.cache
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.csproj.CoreCompileInputs.cache
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\Pinturil.D9E87D0E.Up2Date
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.exe
+C:\piturillo so\version final\PinturilloSO\PinturilloSO\PinturilloSO\obj\Debug\PinturilloSO.pdb

@@ -1,0 +1,61 @@
+DROP DATABASE IF EXISTS T9_DDBBPinturilloSO;
+CREATE DATABASE T9_DDBBPinturilloSO;
+USE T9_DDBBPinturilloSO;
+
+CREATE TABLE Jugadores (
+    ID INTEGER AUTO_INCREMENT PRIMARY KEY,
+    Usuario VARCHAR(80) NOT NULL,
+    Correo VARCHAR(80) NOT NULL,
+    Contrasena VARCHAR(80) NOT NULL,
+    FotoPerfil INTEGER
+);
+
+CREATE TABLE Partida (
+    ID INTEGER AUTO_INCREMENT PRIMARY KEY,
+    Codigo INTEGER NOT NULL,
+    Rondas INTEGER NOT NULL,
+    Privacidad INTEGER NOT NULL
+);
+
+CREATE TABLE Dibujos (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Dibujo VARCHAR(80) NOT NULL,
+    Dificultad INTEGER NOT NULL,
+    Categoria VARCHAR(80) NOT NULL
+);
+
+CREATE TABLE Partidas (
+    PartidaID INTEGER NOT NULL,
+    PrimeroID INTEGER NOT NULL,
+    SegundoID INTEGER NOT NULL,
+    TerceroID INTEGER,
+    CuartoID INTEGER,
+    FOREIGN KEY (PrimeroID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (SegundoID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (TerceroID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (CuartoID) REFERENCES Jugadores(ID),
+    Ganador VARCHAR(80) NOT NULL
+);
+
+CREATE TABLE Victorias {
+    JugadorID INTEGER NOT NULL,
+    PartidaID INTEGER NOT NULL,
+    FOREIGN KEY (JugadorID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (PartidaID) REFERENCES Partidas(ID),
+    Puntos INTEGER
+};
+
+CREATE TABLE Ranking (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    JugadorID INTEGER NOT NULL,
+    Puntuacion INTEGER NOT NULL,
+    FOREIGN KEY (JugadorID) REFERENCES Jugadores(ID)
+);
+
+CREATE TABLE Amigos (
+    JugadorID INTEGER NOT NULL,
+    AmigoID INTEGER NOT NULL,
+    FOREIGN KEY (JugadorID) REFERENCES Jugadores(ID),
+    FOREIGN KEY (AmigoID) REFERENCES Jugadores(ID),
+    CHECK (JugadorID <> AmigoID)
+);
